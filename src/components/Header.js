@@ -90,6 +90,11 @@ class Header extends Component {
                 id="icon-switch"
               />
             </div>
+            <a href="https://drive.google.com/file/d/1yTjDZydzY0rU23u9qw9uciJyGu39erFN/view?usp=sharing" target="blank">
+              <button style={{ border: "none", outline: "none", padding: "10px 25px", borderRadius: "10px", marginTop: "50px", fontSize: "20px" }}>
+                Download CV
+              </button>
+            </a>
           </div>
         </div>
       </header>
