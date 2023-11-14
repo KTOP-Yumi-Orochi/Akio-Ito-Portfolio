@@ -1,0 +1,291 @@
+{
+    "basic_info": {
+      "description_header": "こんにちは！",
+      "description": "👋 私の名前は伊藤明生、あなたのフレンドリーな近所のフロントエンド開発者、モバイルアプリ愛好家、そしてデザイン愛好家です！🖥️📲✨ 情熱的なテックヘッドとして、私は常にクリーンで直感的な使い心地の良いインターフェースを作成し、ユーザーエクスペリエンスに美的な楽しさを加えることを目指して、ウェブとモバイルデザインの魅惑的な風景に足を踏み入れてきました。これらの情熱をKTOPSOFTでの仕事を通じて独自に翻訳する特権を持っていますが、ここで一緒に革新的なアイディアを現実にすることができます。💡🚀 ただの別のフロントエンド開発者ではなく、ウェブとモバイルの開発の両方でフルスタックドメインで活動するのに適した知識を持つことも可能です。私の心が最も高鳴るのはMERNスタック（MongoDB、Express.js、React、Node.js）で、これによりあなたの夢を機能的で効率的、そして美しい提供物に組み込むことが可能になります。🌐💪 私はテクノロジーがインタラクティブな体験を描く手段、物語を語る手段、問題を解決する手段としての力を固く信じています。コーディングしていない時は、最新のテックトレンドを探したり、クールなデザインを作ったり、あるいは次の大きなアイディアを考えたりしています。 この旅に一緒に参加しませんか？すばらしい有線の未来を一緒に構築しましょう！⚡🌠🛠️➡️ ありがとう 💜",
+      "section_name": {
+        "about": "私について",
+        "projects": "プロジェクト",
+        "skills": "スキル",
+        "experience": "経験"
+      }
+    },
+    "projects": [
+      {
+        "title": "Legends of Meta",
+        "startDate": "2023",
+        "description": "これまでに作られた最もエキサイティングなゲームサイトです。このサイトでは、ゲームの世界を全て旅行し、ゲームについての完全な理解を得ることができます。また、このサイトでは、コインを変更、賭け、購入したり、YouTubeやMediumなどからニュースを得ることもできます。現在はMVPのため、全ての機能はありませんし、UIの側面しかありません。ここではフロントエンドとデザインのみに取り組んでいました。 :)",
+        "images": [
+          "images/portfolio/legends of meta/1.png",
+          "images/portfolio/legends of meta/2.png",
+          "images/portfolio/legends of meta/3.png",
+          "images/portfolio/legends of meta/4.png",
+          "images/portfolio/legends of meta/5.png",
+          "images/portfolio/legends of meta/6.png",
+          "images/portfolio/legends of meta/7.png"
+        ],
+        "url": "https://tcg-web-vert.vercel.app",
+        "technologies": [
+          {
+            "class": "devicon-nextjs-original",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-graphql-plain",
+            "name": "GraphQL"
+          },
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwind CSS"
+          }
+        ]
+      },
+      {
+        "title": "Metafy",
+        "startDate": "2018",
+        "description": "Metafyは、eスポーツ分野向けの高度なオンライン学習プラットフォームです。'最高の人々から学ぶ'という哲学のもと、全世界のトップクラスのコーチとユーザーを繋ぎ、ゲームの能力向上を図ります。このプラットフォームでは、構造化されたパーソナライズされたマンツーマンのコーチングセッションを提供し、新しいスキルや戦略、ゲームパフォーマンスをレベルアップするためのノウハウを獲得することができます。柔軟なスケジューリングの他、プラットフォームはコーチと学習者間のシームレスなコミュニケーションも可能にし、高品質な没入型の学習体験を保証します。 :)",
+        "images": [
+          "images/portfolio/metafy/1.png",
+          "images/portfolio/metafy/2.png",
+          "images/portfolio/metafy/3.png",
+          "images/portfolio/metafy/4.png",
+          "images/portfolio/metafy/5.png"
+        ],
+        "url": "https://metafy.gg",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express.js"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Hello Fresh",
+        "startDate": "2019",
+        "description": "HelloFreshは、料理のスキルに関係なく、調理を楽しく、手軽にすることを目指す有名なミールキット配送プラットフォームです。このオンライン食品配送プラットフォームが他と一線を画すのは、自分の好きな美味しく、栄養バランスのとれたレシピを毎週選び、新鮮で高品質な食材を消費者の玄関先まで完璧なポーションで直接配送するという、包括的な料理体験を提供することです。ウェブサイトは、顧客が利用可能な食事のオプションを簡単に閲覧し、注文をカスタマイズし、配送を自分の都合に合わせてスケジュールすることができる、堅牢でありながらユーザーフレンドリーなインターフェースを提供します。さらに、プラットフォームは教育的な役割も果たし、各食事の詳細な調理と調理指導を提供することで、料理プロセスを簡素化し、廃棄物を減らし、人々が自宅で健康的な食事を作る力を引き出します。 :)",
+        "images": [
+          "images/portfolio/hello fresh/1.png",
+          "images/portfolio/hello fresh/2.png",
+          "images/portfolio/hello fresh/3.png",
+          "images/portfolio/hello fresh/4.png",
+          "images/portfolio/hello fresh/5.png",
+          "images/portfolio/hello fresh/6.png",
+          "images/portfolio/hello fresh/7.png"
+        ],
+        "url": "https://www.hellofresh.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Travalour",
+        "startDate": "2017",
+        "description": "Travalourは直感的でユーザーフレンドリーな旅行発見・計画プラットフォームです。ユーザーが世界中の地元のアトラクション、隠れた名所、必見のスポットを探し出すお手伝いをすることが使命です。最高の眺め、歴史的な場所、自然のスポットを探すことができ、Travalourは各旅行先の詳細な情報を提供します。ユーザーはカテゴリーや場所ごとにアトラクションを探索し、興味のあるポイントは詳細な説明、写真、地図、ユーザーレビューが特徴です。プラットフォームはユーザーが自分たちの冒険を共有し、新たなアトラクションを追加することを奨励しています。組み込まれた旅行計画機能を利用すれば、ユーザーは自分たちの行程を作成・カスタマイズし、お気に入りのスポットをブックマークし、旅行計画を他人と共有することができます。洗練された視覚的に魅力的なインターフェースは、ユーザーエクスペリエンスを楽しく効率的にします。 :)",
+        "images": [
+          "images/portfolio/travalour/1.png",
+          "images/portfolio/travalour/2.png",
+          "images/portfolio/travalour/3.png",
+          "images/portfolio/travalour/4.png",
+          "images/portfolio/travalour/5.png",
+          "images/portfolio/travalour/6.png",
+          "images/portfolio/travalour/7.png"
+        ],
+        "url": "https://www.travalour.com",
+        "technologies": [
+          {
+            "class": "devicon-laravel-plain",
+            "name": "Laravel"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Bopp",
+        "startDate": "2022",
+        "description": "BOPPは、取引を簡素化することを目指したシンプルで速く、安全な支払いソリューションです。'BOPP it!'というフレーズは、迅速かつ簡単な支払いプロセスを提供するという彼らのコミットメントを強調しています。プラットフォームは、BOPPアプリとBOPPチェックアウトの両方のオプションを提供しており、さまざまな取引のニーズをカバーする柔軟性を備えています。友人にお金を送ることからオンラインストアでのチェックアウトまで、BOPPは支払いを可能な限りスムーズで手間のかからないものにするために努めています。その完璧にミニマリストで理解しやすいインターフェースは、初回ユーザーやリピートカスタマーからなる幅広い層に対応したユーザーフレンドリーな環境を作り出しています。 :)",
+        "images": [
+          "images/portfolio/bopp/1.png",
+          "images/portfolio/bopp/2.png",
+          "images/portfolio/bopp/3.png",
+          "images/portfolio/bopp/4.png",
+          "images/portfolio/bopp/5.png"
+        ],
+        "url": "https://bopp.io",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreeSQL"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Juniper Fashion",
+        "startDate": "2020",
+        "description": "Juniper Fashionは、厳選された女性向けの衣類やアクセサリーを提供する電子商取引プラットフォームです。トレンドを追求したファッションに焦点を当て、ウェブサイトでは衣類、靴、アクセサリーなど、あらゆる衣装の要求に応える幅広い商品を提供しています。ウェブサイトは洗練された、ユーザーフレンドリーなレイアウトで、ショッピングが容易に行えます。各商品には高品質な画像、詳細な説明、顧客のレビュー、価格情報が掲載されています。新着品、衣類タイプ、アクセサリー、セールによる直感的なナビゲーション構造により、顧客は欲しい商品を簡単に見つけることができます。顧客は個人アカウントを作成することで、お気に入りの商品を保存、注文を追跡し、チェックアウトプロセスを迅速化するなど、よりパーソナライズされたショッピング体験を実現できます。また、サイトは安全な取引を保証するための安全なオンライン決済システムを提供しています。 :)",
+        "images": [
+          "images/portfolio/juniper fashion/1.png",
+          "images/portfolio/juniper fashion/2.png",
+          "images/portfolio/juniper fashion/3.png",
+          "images/portfolio/juniper fashion/4.png",
+          "images/portfolio/juniper fashion/5.png"
+        ],
+        "url": "https://juniperfashion.com",
+        "technologies": [
+          {
+            "class": "devicon-laravel-plain",
+            "name": "Laravel"
+          },
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue.js"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreeSQL"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwind CSS"
+          },
+          {
+            "class": "devicon-vuetify-plain",
+            "name": "Vuetify"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "KTOPSOFT",
+        "title": "ウェブ、モバイル＆ゲームデザイナー＆デベロッパー",
+        "years": "2022.01 - present",
+        "icon": "fas fa-eye experience-icon",
+        "link": "https://ktopsoftstudio.carrd.co",
+        "mainTech": [
+          "React, Next.js, Figma, Android"
+        ],
+        "technologies": [
+          "React",
+          "Next.js",
+          "JavaScript",
+          "Bootstrap",
+          "Figma",
+          "Photoshop",
+          "Android",
+          "Flutter",
+          "MongoDB"
+        ]
+      },
+      {
+        "company": "RIKKEISOFT",
+        "title": "フロントエンドデベロッパー",
+        "years": "10.2019 - 2021.12",
+        "icon": "fab fa-react experience-icon",
+        "link": "https://rikkeisoft.com/?utm_campaign=directory&utm_medium=referral&utm_source=themanifest.com",
+        "mainTech": [
+          "React, Next.js, Laravel, Angular"
+        ],
+        "technologies": [
+          "React",
+          "Next.js",
+          "JavaScript",
+          "Bootstrap",
+          "Laravel",
+          "Angular",
+          "Android",
+          "Electron",
+          "Flutter"
+        ]
+      },
+      {
+        "company": "HIKESIYA USA INC.",
+        "title": "フルスタックデベロッパー",
+        "years": "06.2016 - 09.2019",
+        "icon": "fab fa-vuejs experience-icon",
+        "link": "https://hikesiya.com/?utm_campaign=directory&utm_medium=referral&utm_source=themanifest.com",
+        "mainTech": [
+          "PHP, Python, Vue"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "PHP",
+          "JavaScript",
+          "Python",
+          "Vue.js",
+          "MySQL",
+          "PostgreSQL",
+          "MongoDB"
+        ]
+      }
+    ]
+  }

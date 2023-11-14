@@ -1,0 +1,208 @@
+{
+    "basic_info": {
+      "name": "あきお いとう",
+      "titles": [ "フロントエンドデベロッパー", "モバイルアプリ開発者", "ウェブ＆モバイルデザイナー", "KTOPSOFTチームメンバー" ],
+      "social": [
+        {
+          "name": "email",
+          "url": "https://github.com",
+          "class": "fas fa-envelope"
+        },
+        {
+          "name": "telegram",
+          "url": "https://github.com",
+          "class": "fab fa-telegram"
+        },
+        {
+          "name": "skype",
+          "url": "https://github.com",
+          "class": "fab fa-skype"
+        },
+        {
+          "name": "discord",
+          "url": "https://github.com",
+          "class": "fab fa-discord"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "twitter",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-twitter"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-facebook"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "images/myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "95"
+        },
+        {
+          "name": "Next",
+          "class": "devicon-nextjs-original",
+          "level": "75"
+        },
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "80"
+        },
+        {
+          "name": "Vue",
+          "class": "devicon-vuejs-plain",
+          "level": "95"
+        },
+        {
+          "name": "Laravel",
+          "class": "devicon-laravel-plain",
+          "level": "95"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "95"
+        },
+        {
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
+          "level": "95"
+        },
+        {
+          "name": "Nuxt",
+          "class": "devicon-nuxtjs-plain",
+          "level": "95"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "95"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "95"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "95"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "SQLite",
+          "class": "devicon-sqlite-plain",
+          "level": "60"
+        },
+        {
+          "name": "Flutter",
+          "class": "devicon-flutter-plain",
+          "level": "60"
+        },
+        {
+          "name": "Android",
+          "class": "devicon-androidstudio-plain",
+          "level": "60"
+        },
+        {
+          "name": "Material UI",
+          "class": "devicon-materialui-plain",
+          "level": "60"
+        },
+        {
+          "name": "Tailwind",
+          "class": "devicon-tailwindcss-plain",
+          "level": "60"
+        },
+        {
+          "name": "GraphQL",
+          "class": "devicon-graphql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Three.js",
+          "class": "devicon-threejs-original",
+          "level": "60"
+        },
+        {
+          "name": "Electron",
+          "class": "devicon-electron-original",
+          "level": "60"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-original",
+          "level": "60"
+        }
+      ]
+    }
+  }

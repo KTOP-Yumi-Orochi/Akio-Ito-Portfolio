@@ -1,0 +1,291 @@
+{
+    "basic_info": {
+      "description_header": "Hello there!",
+      "description": "👋 My name's Akio Ito, your friendly neighborhood front-end developer, mobile app aficionado, and design enthusiast! 🖥️📲✨ As a passionate tech head, I've ventured into the captivating scenery of web and mobile design, always on the prowl for creating user-friendly interfaces that are clean, intuitive, and add aesthetic pleasure to the user experience. I am uniquely privileged to translate this passion through my work at KTOPSOFT, where together, we bring innovative ideas to life. 💡🚀 Not just another front-end developer, I am comfortable playing in the full stack domain as well, with proficient knowledge in both, web and mobile development. My heart beats loudest for the MERN stack (MongoDB, Express.js, React, and Node.js) enabling me to assimilate your dreams into functional, efficient, and beautiful deliverables. 🌐💪 I firmly believe in the power of technology as a medium to paint interactive experiences, to tell stories, and to solve problems. When I'm not coding, you'll find me exploring the latest tech trends, creating cool designs, or simply dreaming up the next big idea. Join me on this journey, won't you? Here's to building an awesome wired future, together! ⚡🌠🛠️➡️ Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Legends of Meta",
+        "startDate": "2023",
+        "description": "The most exciting game site that was ever made. In this site you can travel all over the world of game and you can get the full understanding about the game. Also in this site you can also change, stake and buy your coins and get the news from YouTube and Medium and so on. Now it is only for MVP so it has not all the functions and it has only for the UI aspects. Here I worked only on frontend side and design.",
+        "images": [
+          "images/portfolio/legends of meta/1.png",
+          "images/portfolio/legends of meta/2.png",
+          "images/portfolio/legends of meta/3.png",
+          "images/portfolio/legends of meta/4.png",
+          "images/portfolio/legends of meta/5.png",
+          "images/portfolio/legends of meta/6.png",
+          "images/portfolio/legends of meta/7.png"
+        ],
+        "url": "https://tcg-web-vert.vercel.app",
+        "technologies": [
+          {
+            "class": "devicon-nextjs-original",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-graphql-plain",
+            "name": "GraphQL"
+          },
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwind CSS"
+          }
+        ]
+      },
+      {
+        "title": "Metafy",
+        "startDate": "2018",
+        "description": "Metafy is an advanced online learning platform oriented towards the esports domain. With the philosophy of 'Learn from the best', it seeks to elevate the gaming abilities of its users by connecting them with top-tier coaches worldwide. The platform offers structured and personalized one-on-one coaching sessions, allowing users to acquire new skills, strategies, and the know-how to level up their gaming performance. Apart from flexible scheduling, the platform also facilitates seamless communication between the coach and the learner to ensure a high-quality, immersion learning experience. :)",
+        "images": [
+          "images/portfolio/metafy/1.png",
+          "images/portfolio/metafy/2.png",
+          "images/portfolio/metafy/3.png",
+          "images/portfolio/metafy/4.png",
+          "images/portfolio/metafy/5.png"
+        ],
+        "url": "https://metafy.gg",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express.js"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Hello Fresh",
+        "startDate": "2019",
+        "description": "HelloFresh is a renowned meal kit delivery platform that aims to make cooking fun and accessible irrespective of a chef's skills. What sets this online food delivery platform apart is the holistic cooking experience it offers—from choosing from an array of delicious, nutritionally balanced recipes each week to delivering fresh, high-quality ingredients in the perfect portion sizes directly to the consumer's doorstep. The website provides a robust yet user-friendly interface where customers can effortlessly browse through the available meal options, customize their orders, and schedule their deliveries as per convenience. Additionally, the platform also takes on an educational role, offering detailed preparation and cooking instructions for each meal, thereby simplifying the cooking process, reducing waste, and empowering people to cook healthy meals at home. :)",
+        "images": [
+          "images/portfolio/hello fresh/1.png",
+          "images/portfolio/hello fresh/2.png",
+          "images/portfolio/hello fresh/3.png",
+          "images/portfolio/hello fresh/4.png",
+          "images/portfolio/hello fresh/5.png",
+          "images/portfolio/hello fresh/6.png",
+          "images/portfolio/hello fresh/7.png"
+        ],
+        "url": "https://www.hellofresh.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Travalour",
+        "startDate": "2017",
+        "description": "Travalour is an intuitive, user-friendly travel discovery and planning platform. Its mission is to help users uncover local attractions, hidden gems, and must-visit spots around the world. Whether it's locating the best vistas, historical venues, or nature spots, Travalour offers comprehensive information about various travel destinations. Users can explore attractions by categories and locations, with each point of interest featuring detailed descriptions, photos, maps, and user reviews. The platform also encourages public participation by allowing users to share their adventures and add new attractions. With in-built trip planning features, users can create and customize their itineraries, bookmark their favorite spots, and share their travel plans with others. Its clean, visually appealing interface makes the user experience enjoyable and efficient. :)",
+        "images": [
+          "images/portfolio/travalour/1.png",
+          "images/portfolio/travalour/2.png",
+          "images/portfolio/travalour/3.png",
+          "images/portfolio/travalour/4.png",
+          "images/portfolio/travalour/5.png",
+          "images/portfolio/travalour/6.png",
+          "images/portfolio/travalour/7.png"
+        ],
+        "url": "https://www.travalour.com",
+        "technologies": [
+          {
+            "class": "devicon-laravel-plain",
+            "name": "Laravel"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Bopp",
+        "startDate": "2022",
+        "description": "BOPP is a simple, fast, and secure payment solution geared towards simplifying transactions. 'BOPP it!' emphasizes their commitment to provide a quick and easy payment process. The platform offers both BOPP app and BOPP checkout options, making it flexible to cover different transactional needs. Whether you're sending money to a friend or checking out in an online store, BOPP strives to make payments as smooth and hassle-free as possible. Their impeccably minimalistic and easy-to-understand interface creates a user-friendly environment that caters to a wide demographic base, from first-time users to repeat customers. :)",
+        "images": [
+          "images/portfolio/bopp/1.png",
+          "images/portfolio/bopp/2.png",
+          "images/portfolio/bopp/3.png",
+          "images/portfolio/bopp/4.png",
+          "images/portfolio/bopp/5.png"
+        ],
+        "url": "https://bopp.io",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreeSQL"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Juniper Fashion",
+        "startDate": "2020",
+        "description": "Juniper Fashion is an e-commerce platform providing a curated selection of women's clothing and accessories. With a focus on trend-driven fashion, the website offers a wide variety of items, from clothing and shoes to accessories, providing something for every sartorial need. The website features a clean, user-friendly layout that makes browsing seamless. Each product includes high-quality images, detailed descriptions, customer reviews, and pricing information. The intuitive navigation structure—categorized by new arrivals, clothing types, accessories, and sales—allows customers to easily find their desired products. Customers can create a personal account for a more tailored shopping experience, enabling them to save favorite items, track orders, and expedite the checkout process. The site also provides a secure online payment system to ensure safe transactions. :)",
+        "images": [
+          "images/portfolio/juniper fashion/1.png",
+          "images/portfolio/juniper fashion/2.png",
+          "images/portfolio/juniper fashion/3.png",
+          "images/portfolio/juniper fashion/4.png",
+          "images/portfolio/juniper fashion/5.png"
+        ],
+        "url": "https://juniperfashion.com",
+        "technologies": [
+          {
+            "class": "devicon-laravel-plain",
+            "name": "Laravel"
+          },
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue.js"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreeSQL"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwind CSS"
+          },
+          {
+            "class": "devicon-vuetify-plain",
+            "name": "Vuetify"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "KTOPSOFT",
+        "title": "Web, Mobile & Game Designer & Developer",
+        "years": "2022.01 - present",
+        "icon": "fas fa-eye experience-icon",
+        "link": "https://ktopsoftstudio.carrd.co",
+        "mainTech": [
+          "React, Next.js, Figma, Android"
+        ],
+        "technologies": [
+          "React",
+          "Next.js",
+          "JavaScript",
+          "Bootstrap",
+          "Figma",
+          "Photoshop",
+          "Android",
+          "Flutter",
+          "MongoDB"
+        ]
+      },
+      {
+        "company": "RIKKEISOFT",
+        "title": "Front-End Developer",
+        "years": "10.2019 - 2021.12",
+        "icon": "fab fa-react experience-icon",
+        "link": "https://rikkeisoft.com/?utm_campaign=directory&utm_medium=referral&utm_source=themanifest.com",
+        "mainTech": [
+          "React, Next.js, Laravel, Angular"
+        ],
+        "technologies": [
+          "React",
+          "Next.js",
+          "JavaScript",
+          "Bootstrap",
+          "Laravel",
+          "Angular",
+          "Android",
+          "Electron",
+          "Flutter"
+        ]
+      },
+      {
+        "company": "HIKESIYA USA INC.",
+        "title": "Full-Stack Developer",
+        "years": "06.2016 - 09.2019",
+        "icon": "fab fa-vuejs experience-icon",
+        "link": "https://hikesiya.com/?utm_campaign=directory&utm_medium=referral&utm_source=themanifest.com",
+        "mainTech": [
+          "PHP, Python, Vue"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "PHP",
+          "JavaScript",
+          "Python",
+          "Vue.js",
+          "MySQL",
+          "PostgreSQL",
+          "MongoDB"
+        ]
+      }
+    ]
+  }
